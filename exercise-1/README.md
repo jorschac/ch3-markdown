@@ -9,4 +9,10 @@ and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
+>I had nothing to offer anybody except my own confusion.
+_-Jack Kerouac _
+
+[link](https://www.goodreads.com/author/quotes/1742.Jack_Kerouac)
+
+
 See `complete` branch for an example.
